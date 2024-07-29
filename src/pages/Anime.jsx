@@ -4,8 +4,8 @@ import Main from '../components/section/Main';
 
 const Gsap = () => {
   return (
-    <Main title="Gsap 채널" description="Gsap 페이지입니다.">
-      Gsap
+    <Main title="애니메이션 채널" description="애니메이션 페이지입니다.">
+      Anime
     </Main>
   )
 }

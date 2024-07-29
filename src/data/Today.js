@@ -69,7 +69,7 @@ export const todayText =[
         author : "7 PGH",
         channelId : "UCMc4EmuDxnHPc6pgGW-QWvQ",
         date : "7 2024.07.26",
-        page : "/webd",
+        page : "/movie",
     },
     {
         img : todayView08,
